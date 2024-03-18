@@ -1,3 +1,7 @@
+name: "Zig tests"
+
+on: push
+
 jobs:
   test:
     strategy:
